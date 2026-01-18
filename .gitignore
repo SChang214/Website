@@ -1,0 +1,14 @@
+# Dependency directories (very heavy, don't push these!)
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment variables (security risk!)
+.env
+*.log
+
+# Build folders
+dist/
+build/
