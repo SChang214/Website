@@ -214,6 +214,8 @@ footer {
     height: 450px;
     object-fit: cover;         /* Keeps all photos the same size/shape */
     border-radius: 8px;
+
+    /*in the future, make no images cropped*/
 }
 
 .caption {
